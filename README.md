@@ -5,7 +5,7 @@ By Simona Vasiliauskaite G00263352
 
 This assignment requires to create a Jupyter Notebook and analyze Anscombe's data set.
 
-![Anscombe's Quartet Data Graphed](https://www.google.com/search?q=anscombe%27s+quartet+data+set&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj00drjurbeAhXC6qQKHW97C08Q_AUIDigB&biw=1366&bih=626#imgrc=ZHSQJh9bCxHhGM:)
+![Anscombe's Quartet Data Graphed](https://en.wikipedia.org/wiki/Anscombe%27s_quartet#/media/File:Anscombe%27s_quartet_3.svg)
 
 ### Contents of this Project:
 
