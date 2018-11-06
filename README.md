@@ -1,7 +1,11 @@
 # Fundamentals in Data Analysis - Assignment 2018
-*By Simona Vasiliauskaite G00263352*
+By Simona Vasiliauskaite G00263352
 
 ## Analysis of Anscombe's Quartet Dataset
+
+This assignment requires to create a Jupyter Notebook and analyze Anscombe's data set.
+
+![Anscombe's Quartet Data Graphed](https://seaborn.pydata.org/_images/anscombes_quartet.png)
 
 ### Contents of this Project:
 
@@ -10,17 +14,11 @@
 - [ ] Calculating the descriptive statistics of the variables in the dataset.
 - [ ] Explanation to why the dataset is interesting, referring to the plots and statistics.
 
+To successfully view this file you will have to install following programs:
 
-## 1. Explanation of the background to the dataset
-
-- About Frank Anscombe
-- About the Data Set
-
-## 2. Plots of interesting aspects of the dataset
-
-## 3. Calculating the descriptive statistics of the variables in the dataset
-
-## 4. Explanation to why the dataset is interesting
+* [JupyterNotebook](http://jupyter.org/)
+* Install Python via Anaconda
+* Install Python packages Numpy, Matplotlib, Pandas, Seaborn.
 
 ----------------------------------------------------------------------------------
 
